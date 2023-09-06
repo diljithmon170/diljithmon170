@@ -1,5 +1,5 @@
 # 💫 About Me:
-![logo](https://github.com/diljithmon170/diljithmon170/blob/main/InShot_20200320_184307863.jpg)
+![logo](https://github.com/diljithmon170/diljithmon170/blob/main/AKJ05017-Edit-2-Edit-Edit-fotor-bg-remover-20230906194325.png)
 Student at College Of Engineering, Chengannur<br>📫 How to reach me : diljithmon170@gmail.com<br>📄 My Resume : https://drive.google.com/file/d/1Sg0CE87rieDqPemefy-8ozVL5jOwY1nQ/view?usp=share_link<br>
 
 
