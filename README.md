@@ -6,9 +6,8 @@ Dip+Btech (CSE)<br>Student at Colle ge Of Engineering, Chengannur<br>#include<Li
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/📄 My Resume : https://drive.google.com/file/d/1Sg0CE87rieDqPemefy-8ozVL5jOwY1nQ/view?usp=share_link) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/dil_jith_dayanandan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diljith-d-b85272234/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/DiljithDayanan1) 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/diljithdayanan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/diljithdayanan1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diljith-d-b85272234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diljith-d-b85272234/" height="30" width="40" /></a>
