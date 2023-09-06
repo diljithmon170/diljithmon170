@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diljith Dayanandan</h1>
 <h3 align="center">Student at College Of Engineering, Chengannur</h3>
-<img align="right" src="https://github.com/diljithmon170/diljithmon170/blob/main/AKJ05017-Edit-2-Edit-Edit.jpg" width="400" alt="pic">
+<img align="right" src="https://github.com/diljithmon170/diljithmon170/blob/main/pic%20circle.png" width="400" alt="pic">
 <h4>Dip+Btech (CSE)<br>Student at Colle ge Of Engineering, Chengannur<br>#include{Life.h}<br>Learn new things while Scrolling.!!<h4><br><br>
 
 
