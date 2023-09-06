@@ -1,4 +1,4 @@
-# Hy I'm Diljith Dayanandan:
+
 <h1 align="center">Hi 👋, I'm Diljith Dayanandan</h1>
 <h3 align="center">Student at College Of Engineering, Chengannur</h3>
 <img align="right" src="https://github.com/diljithmon170/diljithmon170/blob/main/AKJ05017-Edit-2-Edit-Edit-fotor-bg-remover-20230906194325.png" width="400" alt="pic">
