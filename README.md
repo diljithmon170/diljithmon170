@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Diljith Dayanandan</h1>
 <h3 align="center">Student at College Of Engineering, Chengannur</h3>
-
-<h4>Dip+Btech (CSE)<br>#include{Life.h}<br>Learn new things while Scrolling.!!<h4>
 <img align="right" src="https://github.com/diljithmon170/diljithmon170/blob/main/programmer.gif" width="400" alt="pic"><br>
+<h4>Dip+Btech (CSE)<br>#include{Life.h}<br>Learn new things while Scrolling.!!<h4>
+
 
 ## 🌐 Socials:
 
