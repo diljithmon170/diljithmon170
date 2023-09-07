@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diljith Dayanandan</h1>
 <h3 align="center">Student at College Of Engineering, Chengannur</h3><br>
 <img align="center" src="https://github.com/diljithmon170/diljithmon170/blob/main/programmer.gif" width="400" alt="pic">
-<h3 align="center">Diploma+Btech (CSE)<br>#include{Life.h}<br>Learn new things while Scrolling.!!</h3>
+<h3 align="center">Diploma(3 years)+Btech (CSE)<br>#include{Life.h}<br>Learn new things while Scrolling.!!</h3>
 
 
 ## 🌐 Socials:
