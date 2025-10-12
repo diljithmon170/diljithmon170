@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Diljith Dayanandan</h1>
+<!-- <h1 align="center">Hey 👋, I'm Diljith Dayanandan</h1>
 <h3 align="center">💻 Software Developer | AI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
@@ -84,4 +84,4 @@
 ---
 
 ## ✨ Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House -->
