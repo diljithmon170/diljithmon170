@@ -34,8 +34,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 I’m a **Software Developer** passionate about **AI, NLP, and Full-Stack Development**  
-- 🚀 Currently working on **SAATHI AI App** — an empathetic AI companion  
+- 👨‍💻 I’m a **Software Developer** passionate about **AI, NLP, and Full-Stack Development**   
 - 🧩 Skilled in **Python | FastAPI | TensorFlow | Transformers | Web Development**  
 - 📚 Always exploring **Machine Learning, Deep Learning, and Backend Systems**  
 - 💬 Ask me about **AI pipelines, FastAPI, or NLP-based projects**  
