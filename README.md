@@ -16,7 +16,8 @@
 # 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diljith-d-b85272234/" target="blank">
+  <h4 align="center">📧 diljithmon170@gmail.com</h4>
+  <a href="https://www.linkedin.com/in/diljith-d/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://twitter.com/diljithdayanan1" target="blank">
